@@ -12,6 +12,8 @@ Click item below or check all on [Microsoft Addon Store](https://microsoftedge.m
 
 ### Support or Contact
 
+I'm a freelance developer, skill in c#, c++.
+
 Email: [Send Questions or Requirements](mailto: 348318920@qq.com)
 
 
