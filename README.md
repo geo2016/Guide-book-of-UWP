@@ -15,5 +15,5 @@ Click item below to get the usage guideline, or check out all items published on
 ### Support or Contact
 
 Email: [Both business or technical questions](mailto: 348318920@qq.com)
-Chinese: [中文页面](werun.cn)
+
 
