@@ -1,6 +1,6 @@
 ## UWP Apps
 
-* UWP 1 (On building)
+* UWP app (On building)
 
 
 ## Edge Addons
