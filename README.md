@@ -1,13 +1,13 @@
 ## UWP Apps
 
-Click to the page of item,
+Click item below to get the usage guideline, or check out all items published on Microsoft Store.
 
 * UWP 1
 
 
 ## Edge Addons
 
-You may click the urls below to get usage guideline, or view all items published on Microsoft Addon Store.
+Click item below to get the usage guideline, or check out all items published on Microsoft Addon Store.
 
 * 稍后阅读
 * 今日清单
