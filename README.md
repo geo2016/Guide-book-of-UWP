@@ -1,5 +1,5 @@
-## 软件主页（有软件对应操作视频）
-* [哔哩哔哩主页](https://space.bilibili.com/393919718/)
+## 微润软件（专注定制开发）
+* [哔哩哔哩主页，包含软件操作演示](https://space.bilibili.com/393919718/)
 * [西瓜视频主页](https://www.ixigua.com/home/553794005631608)
 
 
