@@ -1,12 +1,13 @@
 ## 微润软件（专注定制开发）
-* [哔哩哔哩主页，包含软件操作演示](https://space.bilibili.com/393919718/)
-* [西瓜视频主页](https://www.ixigua.com/home/553794005631608)
+本站是个人站点，应监管要求不提供在线购买！淘宝上的全是盗版，大家不要购买。
+* [哔哩哔哩上的本站软件视频教程、技术分享](https://space.bilibili.com/393919718/)
+* [西瓜视频上的本站软件教程（持续更新，请关注下）](https://www.ixigua.com/home/553794005631608)
 
 
-### 联系定制软件 Contact
-QQ：348318920 
-微信：geo_uu 
-[Send Ques. OR Req.](mailto: 348318920@qq.com) by email
+## 联系定制软件 Contact
+* QQ：348318920 
+* 微信：geo_uu 
+* [Send Ques. OR Req.](mailto: 348318920@qq.com) by email
 
 
 ## Edge Addons
